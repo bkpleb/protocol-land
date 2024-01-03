@@ -1,5 +1,5 @@
 import Arweave from 'arweave'
-import { WarpFactory } from 'warp-contracts'
+import { WarpFactory } from 'warp-contracts/web'
 import { DeployPlugin } from 'warp-contracts-plugin-deploy'
 
 import getWarpContract from '@/helpers/getWrapContract'
